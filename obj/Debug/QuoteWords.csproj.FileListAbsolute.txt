@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\QuoteWords\bin\Debug\QuoteWords.exe.config
+C:\Users\Wiz\Desktop\IGME 201\QuoteWords\bin\Debug\QuoteWords.exe
+C:\Users\Wiz\Desktop\IGME 201\QuoteWords\bin\Debug\QuoteWords.pdb
+C:\Users\Wiz\Desktop\IGME 201\QuoteWords\obj\Debug\QuoteWords.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\QuoteWords\obj\Debug\QuoteWords.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\QuoteWords\obj\Debug\QuoteWords.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\QuoteWords\obj\Debug\QuoteWords.exe
+C:\Users\Wiz\Desktop\IGME 201\QuoteWords\obj\Debug\QuoteWords.pdb
